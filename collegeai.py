@@ -12,7 +12,7 @@ with open("college_info.txt", "r", encoding="utf-8") as file:
 # --- Keyword List for Valid Questions ---
 college_keywords = [
     "college", "sjc", "trichy", "hostel", "campus", "faculty", "lab","hi","hello","thank you",
-    "library", "admission", "fees", "class", "sports", "placement",
+    "library", "admission", "fees", "class", "sports", "placement","yes",
     "infrastructure", "canteen", "wifi", "transport", "timing", "student",
     "department", "research", "seminar", "building", "autonomous", "ug", "pg"
 ]
