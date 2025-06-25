@@ -49,7 +49,7 @@ if user_input:
     else:
         with st.spinner("Thinking..."):
             try:
-                model = genai.GenerativeModel("gemini-pro")
+                model = genai.GenerativeModel("gemini-2.0-flash-exp")
                 prompt = f"""
 You are 🎓 EduBot, a helpful assistant with detailed knowledge of the following college:
 
