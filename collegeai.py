@@ -40,8 +40,9 @@ st.title("🎓 EduBot")
 st.markdown("Ask any question about **St. Joseph's College, Trichy**")
 
 user_input = st.text_input("Your Question", placeholder="e.g. What are the library hours?")
-user=user_input+"st.joseph's college"
-if user:
+
+if user_input:
+    user=user_input+"st.joseph's college"
     if is_code_like(user):
         st.warning("⚠️ I can't process code. Please ask a question about the college.")
     elif not is_college_related(user):
