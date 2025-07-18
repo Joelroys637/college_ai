@@ -90,7 +90,7 @@ Transportation: While many students reside in hostels or nearby, the college is 
 St. Joseph's College (SJC), also known as SJCTNI, in Tiruchirappalli, offers a wide array of undergraduate (UG), postgraduate (PG), M.Phil., and Ph.D. programs across various disciplines. The fee structure varies significantly depending on the program.
 Programs Offered
 St. Joseph's College offers a diverse range of programs in different schools and departments:
-Undergraduate (UG) Programs 🎓
+Undergraduate (UG) Programs and course 🎓
  * Arts:
    * B.A. Economics
    * B.A. English Literature
