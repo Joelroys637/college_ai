@@ -3,7 +3,7 @@ import google.generativeai as genai
 import re
 
 # --- API Key ---
-genai.configure(api_key="AIzaSyAdAHovI03L4vAPmTCVU5nLC7MCFth-vWk")  # Replace with your Gemini API key
+genai.configure(api_key="AIzaSyCqWCV7t67pLk4rEouSyCpr74ayRka_NRA")  # Replace with your Gemini API key
 
 # --- Load College Info from File ---
 with open("college_info.txt", "r", encoding="utf-8") as file:
@@ -64,3 +64,4 @@ Now, answer this user's question in simple terms:
                 st.markdown(response.text)
             except Exception as e:
                 st.error(f"Something went wrong: {str(e)}")
+
